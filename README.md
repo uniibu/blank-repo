@@ -1,2 +1,2 @@
 # blank-repo
-Blank repo.
+Blank repo only.
